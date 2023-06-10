@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "815614218485",
+    "firebase_url": "https://linhvv17-476e1-default-rtdb.firebaseio.com",
+    "project_id": "linhvv17-476e1",
+    "storage_bucket": "linhvv17-476e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815614218485:android:7e1da980c8723b6f2eb5bc",
+        "android_client_info": {
+          "package_name": "com.lvv.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmENXYxEc9A0yjRtw9OWouV8NComryc-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
